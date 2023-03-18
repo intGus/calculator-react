@@ -2,4 +2,4 @@
 
 ---
 
-You can see the live preview here
+You can see the live preview [here](https://intgus.github.io/calculator-react/).
