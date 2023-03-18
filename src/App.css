@@ -7,6 +7,9 @@ button {
   padding: 10px;
   border-radius: 5px;
 }
+form > p {
+  font-size: 20px;
+}
 input {
   display: block;
   margin-bottom: 20px;
